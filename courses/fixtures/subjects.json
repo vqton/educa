@@ -1,0 +1,50 @@
+[
+{
+  "model": "courses.subject",
+  "pk": 1,
+  "fields": {
+    "title": "Calculus",
+    "slug": "calculus"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 2,
+  "fields": {
+    "title": "Java",
+    "slug": "java"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 3,
+  "fields": {
+    "title": "Data Structures and Algorithms",
+    "slug": "data-structures-and-algorithms"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 4,
+  "fields": {
+    "title": "Object-Oriented Programming",
+    "slug": "object-oriented-programming"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 5,
+  "fields": {
+    "title": "Operating Systems",
+    "slug": "operating-systems"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 6,
+  "fields": {
+    "title": "Discrete Structures",
+    "slug": "discrete-structures"
+  }
+}
+]
